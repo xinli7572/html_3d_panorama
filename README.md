@@ -1,6 +1,9 @@
 
 # HTML 3D Panorama
 
+
+https://github.com/user-attachments/assets/3f692021-8561-4aad-85d3-c423ee43cd7b
+
 This project is a web-based 3D panorama viewer built using HTML, CSS, and JavaScript. It allows users to view and interact with panoramic images in a 3D sphere format. The user can rotate the image in all directions for a better viewing experience. This is a lightweight solution for showcasing panoramic images or videos with interactive 3D effects.
 
 ## Features
@@ -80,7 +83,6 @@ Feel free to fork this repository and contribute to the project! You can:
 
 
 
-https://github.com/user-attachments/assets/3f692021-8561-4aad-85d3-c423ee43cd7b
 
 
 
